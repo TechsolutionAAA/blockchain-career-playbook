@@ -27,4 +27,3 @@ In this playbook you'll be presented with **guides, resources, and assets to kic
 ## Licence
 
 * [Creative Commons Attribution 4.0 International](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/license.txt)
-# blockchain-career-playbook
